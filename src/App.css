@@ -31,6 +31,7 @@ button {
     font-family: 'Patua One', sans-serif;
     color: white;
     margin: 20px;
+    cursor: pointer;
 }
 
 ul {
@@ -57,3 +58,4 @@ img {
     margin-top: 20px;
     border: 10px solid;
 }
+
